@@ -128,3 +128,6 @@ The full report includes screenshots and explanations of the Odoo configuration,
 - **Project Type:** Academic Project
 - **Course:** ERP Systems
 - **Semester:** Spring 2026
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.

@@ -107,11 +107,6 @@ Demonstrated HR operations, including:
 ## Application
 [Open TAKKE Odoo ERP System](https://edu-takke.odoo.com/)
 
-## Project Documentation
-The full report includes screenshots and explanations of the Odoo configuration, transactions, module integration, user privileges, HR operations, and reporting tools.
-
-**Report:** `docs/TAKKE-ERP-Implementation-Report.pdf`
-
 ## Technologies and Tools Used
 - Odoo ERP
 - Odoo Website
